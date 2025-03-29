@@ -6,7 +6,7 @@ Retro Snake is a classic snake game implemented in Python using the Pygame libra
 [![3AoyqLx.md.png](https://iili.io/3AoyqLx.md.png)](https://freeimage.host/i/3AoyqLx)
 
 ## Features  
-- Simple and nostalgic gameplay.  
+- Simple gameplay with sound effects.  
 - Displays the current score on the screen.  
 - Responsive control using the keyboard.  
 - Game resets after collision with edges or the snake's own body.  
